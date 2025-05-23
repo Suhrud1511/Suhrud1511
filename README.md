@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suhrud Joshi</h1>
 <h3 align="center">A passionate Artificial intelligence Engineer & Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **AI4ALL**
+- 🔭 I’m currently working on **Edge AI Optimisation**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **PyTorch**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
-
-- 💬 Ask me about **Machine Learning and Deep Learning Frameworks**
 
 - 📫 How to reach me **suhrudcodes@gmail.com**
 
@@ -16,7 +14,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suhrud-joshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhrud-joshi/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/suhrudjoshi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/suhrudjoshi15" height="30" width="40" /></a>
 <a href="https://instagram.com/suhrud_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhrud_j" height="30" width="40" /></a>
-<a href="https://medium.com/@suhrudclicks123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suhrudclicks123" height="30" width="40" /></a>
+<a href="https://medium.com/@SuhrudCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suhrudclicks123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
