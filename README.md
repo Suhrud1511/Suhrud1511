@@ -5,16 +5,15 @@
         question_existence()
         # accuracy: 94%  |  my sanity: 12%
 
-cs @ uppsala · ai/ml · mlops · professionally confused
+cs @ uppsala · ai/ml · mlops · either a genius or completely lost. 
 
 got into ai for the passion *(it wasn't)*, the money *(still waiting)*, the prestige *(lol)*.  
-turns out i just have severe stockholm syndrome with gradient descent.
+now i ship mlops infra and convince myself the pipeline failures are character building.
 
-now i deploy models to production and pretend i know what kubernetes is doing.  
-building in python, c++, docker files i copied from stackoverflow, and sheer audacity.
+building in python, c++, docker, and an unreasonable amount of self belief.
 
-*in claude code we trust. in my own code, we pray.*
+*typed by claude code. i just had the vision.*
 
 ---
 
-[portfolio](portfolio-taupe-nine-81.vercel.app) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/suhrud-joshi) &nbsp;·&nbsp; [mail](mailto:suhrudcodes@gmail.com)
+[portfolio](https://portfolio-taupe-nine-81.vercel.app) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/suhrud-joshi) &nbsp;·&nbsp; [mail](mailto:suhrudcodes@gmail.com)
