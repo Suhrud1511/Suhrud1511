@@ -12,7 +12,7 @@ now i ship mlops infra and convince myself the pipeline failures are character b
 
 building in python, c++, docker, and an unreasonable amount of self belief.
 
-*typed by claude code. i just had the vision. xd*
+*typed by claude code. i just had the vision. xd ;)*
 
 ---
 
